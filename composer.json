@@ -1,5 +1,5 @@
 {
-    "name":             "jasonrsavino/starterkit-treetop",
+    "name":             "kanopi/starterkit-treetop",
     "description":      "Base StarterKit for Drupal Theme.",
     "keywords":         ["twig", "pattern lab", "starterkit", "treetop", "drupal"],
     "license":          "GPL-3.0+",
