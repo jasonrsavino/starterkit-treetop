@@ -4,6 +4,7 @@
     "keywords":         ["twig", "pattern lab", "starterkit", "treetop", "drupal"],
     "license":          "GPL-3.0+",
     "type":             "patternlab-starterkit",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name":         "Jason Savino",
